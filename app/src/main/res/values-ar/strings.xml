@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts_Application_Task</string>
+
+    <string name="enter_your_name">ادخل الاسم</string>
+    <string name="enter_your_phone_number">ادخل رقم الموبيل</string>
+    <string name="description">الوصف</string>
+    <string name="save">حفظ</string>
+    <string name="add_contact">اضافة جهة اتصال</string>
+    <string name="mohamed_aboelftoh">Mohamed Aboelftoh</string>
+    <string name="_01014983795">01014983795</string>
+    <string name="make_call">Make Call</string>
+    <string name="description2">الوصف :</string>
+    <string name="Name_must_contain_at_least_3_letter">الاسم يجب ان لا يقل عن 3 احرف</string>
+    <string name="number_must_contain_11_number">رقم الموبيل يجب ان لا يقل عن 11 رقم</string>
+    <string name="description_is_Empty">الوصف فارغ</string>
+</resources>
